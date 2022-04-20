@@ -22,3 +22,12 @@
 	| pickmyspec | !pickmyspec | Picks a random WoW spec. |
 	| [reset\|whenisthereset] | !reset | Shows how long until WoW resets for EU/NA. |
 
+###Overwatch Stats
+
+???+ tldr "OW Commands"
+
+	| Name | Example | Usage |
+	| :---| :--- | :---|
+	| [overwatch\|ow] [name] | !Overwatch Viking#12306 | Fetches some overwatch stats for a specified player (PC).|
+	| [overwatch\|ow] [name] | !Overwatch xbox Viking#4678 | Xbox version of the overwatch command.|
+	| [overwatch\|ow] [name] | !Overwatch psn Viking | Playstation version of the overwatch command.|
